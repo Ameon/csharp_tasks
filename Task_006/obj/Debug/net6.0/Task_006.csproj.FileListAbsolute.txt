@@ -1,0 +1,15 @@
+D:\gb\csharp\csharp_tasks\Task_006\bin\Debug\net6.0\Task_006.exe
+D:\gb\csharp\csharp_tasks\Task_006\bin\Debug\net6.0\Task_006.deps.json
+D:\gb\csharp\csharp_tasks\Task_006\bin\Debug\net6.0\Task_006.runtimeconfig.json
+D:\gb\csharp\csharp_tasks\Task_006\bin\Debug\net6.0\Task_006.dll
+D:\gb\csharp\csharp_tasks\Task_006\bin\Debug\net6.0\Task_006.pdb
+D:\gb\csharp\csharp_tasks\Task_006\obj\Debug\net6.0\Task_006.csproj.AssemblyReference.cache
+D:\gb\csharp\csharp_tasks\Task_006\obj\Debug\net6.0\Task_006.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb\csharp\csharp_tasks\Task_006\obj\Debug\net6.0\Task_006.AssemblyInfoInputs.cache
+D:\gb\csharp\csharp_tasks\Task_006\obj\Debug\net6.0\Task_006.AssemblyInfo.cs
+D:\gb\csharp\csharp_tasks\Task_006\obj\Debug\net6.0\Task_006.csproj.CoreCompileInputs.cache
+D:\gb\csharp\csharp_tasks\Task_006\obj\Debug\net6.0\Task_006.dll
+D:\gb\csharp\csharp_tasks\Task_006\obj\Debug\net6.0\refint\Task_006.dll
+D:\gb\csharp\csharp_tasks\Task_006\obj\Debug\net6.0\Task_006.pdb
+D:\gb\csharp\csharp_tasks\Task_006\obj\Debug\net6.0\Task_006.genruntimeconfig.cache
+D:\gb\csharp\csharp_tasks\Task_006\obj\Debug\net6.0\ref\Task_006.dll
